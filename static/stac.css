@@ -1,0 +1,12 @@
+body {
+    background-color: slategrey;
+}
+.register h4 {
+    color: darkred;
+}
+h4 {
+    color: darkred;
+}
+.input {
+    padding-top: 10px;
+}
